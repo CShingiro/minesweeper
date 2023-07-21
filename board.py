@@ -1,3 +1,6 @@
+import mine
+import point
+
 class Board:
     def __init__(self, board_length,board_height):
         self.board = []
